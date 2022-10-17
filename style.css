@@ -189,7 +189,7 @@ footer li>a {
 }
 /* MEDIA QUERIES */
 
-@media (min-width: 376px) and (max-width:1440px){
+@media (min-width: 415px) and (max-width:1440px){
     /* img#ham{
         display: none;
     } */
@@ -202,7 +202,7 @@ footer li>a {
 }
 
 /* MOBILE */
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 415px) {
     body{
         font-size: 16px;
     }
@@ -359,7 +359,7 @@ footer li>a {
 
 /* TABLETS*/
 
-@media (min-width:376px)and (max-width: 629px) {
+@media (min-width:415px)and (max-width: 629px) {
     body{
         font-size: 13px;
     }
